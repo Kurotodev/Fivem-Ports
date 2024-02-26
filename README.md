@@ -1,0 +1,2 @@
+# Fivem-Ports
+CMD FOR OPEN PORTS (WINDOWS)
